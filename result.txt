@@ -1,0 +1,3286 @@
+[constructor] - khoi tao thanh cong
++m = 1000
+output file =result.txt
+[insert 1]- thanh cong
++key =3940
++hash value =53
+Xung dot =Khong
+[insert 2]- thanh cong
++key =433
++hash value =608
+Xung dot =Khong
+[insert 3]- thanh cong
++key =906
++hash value =938
+Xung dot =Khong
+[insert 4]- thanh cong
++key =1764
++hash value =211
+Xung dot =Khong
+[insert 5]- thanh cong
++key =4057
++hash value =363
+Xung dot =Khong
+[insert 6]- thanh cong
++key =5388
++hash value =967
+Xung dot =Khong
+[insert 7]- thanh cong
++key =7293
++hash value =321
+Xung dot =Khong
+[insert 8]- thanh cong
++key =2078
++hash value =274
+Xung dot =Khong
+[insert 9]- thanh cong
++key =6961
++hash value =134
+Xung dot =Khong
+[insert 10]- thanh cong
++key =2792
++hash value =550
+Xung dot =Khong
+[insert 11]- thanh cong
++key =130
++hash value =344
+Xung dot =Khong
+[insert 12]- thanh cong
++key =5475
++hash value =736
+Xung dot =Khong
+[insert 13]- thanh cong
++key =4339
++hash value =649
+Xung dot =Khong
+[insert 14]- thanh cong
++key =5741
++hash value =133
+Xung dot =Khong
+[insert 15]- thanh cong
++key =337
++hash value =277
+Xung dot =Khong
+[insert 16]- thanh cong
++key =941
++hash value =569
+Xung dot =Khong
+[insert 17]- thanh cong
++key =3156
++hash value =515
+Xung dot =Khong
+[insert 18]- thanh cong
++key =911
++hash value =28
+Xung dot =Khong
+[insert 19]- thanh cong
++key =7103
++hash value =895
+Xung dot =Khong
+[insert 20]- thanh cong
++key =9194
++hash value =204
+Xung dot =Khong
+[insert 21]- thanh cong
++key =1256
++hash value =250
+Xung dot =Khong
+[insert 22]- thanh cong
++key =9456
++hash value =129
+Xung dot =Khong
+[insert 23]- thanh cong
++key =8660
++hash value =174
+Xung dot =Khong
+[insert 24]- thanh cong
++key =8978
++hash value =709
+Xung dot =Khong
+[insert 25]- thanh cong
++key =4280
++hash value =185
+Xung dot =Khong
+[insert 26]- thanh cong
++key =9062
++hash value =624
+Xung dot =Khong
+[insert 27]- thanh cong
++key =5759
++hash value =257
+Xung dot =Khong
+[insert 28]- thanh cong
++key =234
++hash value =619
+Xung dot =Khong
+[insert 29]- thanh cong
++key =1493
++hash value =724
+Xung dot =Khong
+[insert 30]- thanh cong
++key =1230
++hash value =181
+Xung dot =Khong
+[insert 31]- thanh cong
++key =6232
++hash value =587
+Xung dot =Khong
+[insert 32]- thanh cong
++key =4377
++hash value =134
+Xung dot =Co
+[insert 33]- thanh cong
++key =8252
++hash value =16
+Xung dot =Khong
+[insert 34]- thanh cong
++key =6673
++hash value =140
+Xung dot =Khong
+[insert 35]- thanh cong
++key =2278
++hash value =881
+Xung dot =Khong
+[insert 36]- thanh cong
++key =9433
++hash value =914
+Xung dot =Khong
+[insert 37]- thanh cong
++key =8251
++hash value =398
+Xung dot =Khong
+[insert 38]- thanh cong
++key =3526
++hash value =187
+Xung dot =Khong
+[insert 39]- thanh cong
++key =8226
++hash value =947
+Xung dot =Khong
+[insert 40]- thanh cong
++key =8576
++hash value =259
+Xung dot =Khong
+[insert 41]- thanh cong
++key =5858
++hash value =443
+Xung dot =Khong
+[insert 42]- thanh cong
++key =809
++hash value =989
+Xung dot =Khong
+[insert 43]- thanh cong
++key =7644
++hash value =251
+Xung dot =Khong
+[insert 44]- thanh cong
++key =4543
++hash value =728
+Xung dot =Khong
+[insert 45]- thanh cong
++key =174
++hash value =537
+Xung dot =Khong
+[insert 46]- thanh cong
++key =7819
++hash value =407
+Xung dot =Khong
+[insert 47]- thanh cong
++key =6477
++hash value =6
+Xung dot =Khong
+[insert 48]- thanh cong
++key =1595
++hash value =764
+Xung dot =Khong
+[insert 49]- thanh cong
++key =8338
++hash value =167
+Xung dot =Khong
+[insert 50]- thanh cong
++key =1897
++hash value =410
+Xung dot =Khong
+[insert 51]- thanh cong
++key =3229
++hash value =631
+Xung dot =Khong
+[insert 52]- thanh cong
++key =9018
++hash value =430
+Xung dot =Khong
+[insert 53]- thanh cong
++key =2503
++hash value =939
+Xung dot =Khong
+[insert 54]- thanh cong
++key =7569
++hash value =899
+Xung dot =Khong
+[insert 55]- thanh cong
++key =7957
++hash value =696
+Xung dot =Khong
+[insert 56]- thanh cong
++key =1056
++hash value =643
+Xung dot =Khong
+[insert 57]- thanh cong
++key =3974
++hash value =67
+Xung dot =Khong
+[insert 58]- thanh cong
++key =1634
++hash value =867
+Xung dot =Khong
+[insert 59]- thanh cong
++key =6007
++hash value =530
+Xung dot =Khong
+[insert 60]- thanh cong
++key =6363
++hash value =550
+Xung dot =Co
+[insert 61]- thanh cong
++key =803
++hash value =281
+Xung dot =Khong
+[insert 62]- thanh cong
++key =5523
++hash value =401
+Xung dot =Khong
+[insert 63]- thanh cong
++key =9501
++hash value =940
+Xung dot =Khong
+[insert 64]- thanh cong
++key =2316
++hash value =366
+Xung dot =Khong
+[insert 65]- thanh cong
++key =2172
++hash value =369
+Xung dot =Khong
+[insert 66]- thanh cong
++key =5207
++hash value =102
+Xung dot =Khong
+[insert 67]- thanh cong
++key =5104
++hash value =445
+Xung dot =Khong
+[insert 68]- thanh cong
++key =9431
++hash value =678
+Xung dot =Khong
+[insert 69]- thanh cong
++key =8161
++hash value =775
+Xung dot =Khong
+[insert 70]- thanh cong
++key =9792
++hash value =788
+Xung dot =Khong
+[insert 71]- thanh cong
++key =634
++hash value =833
+Xung dot =Khong
+[insert 72]- thanh cong
++key =9692
++hash value =985
+Xung dot =Khong
+[insert 73]- thanh cong
++key =2711
++hash value =490
+Xung dot =Khong
+[insert 74]- thanh cong
++key =786
++hash value =774
+Xung dot =Khong
+[insert 75]- thanh cong
++key =2429
++hash value =204
+Xung dot =Co
+[insert 76]- thanh cong
++key =5111
++hash value =771
+Xung dot =Khong
+[insert 77]- thanh cong
++key =5416
++hash value =272
+Xung dot =Khong
+[insert 78]- thanh cong
++key =2729
++hash value =614
+Xung dot =Khong
+[insert 79]- thanh cong
++key =2021
++hash value =46
+Xung dot =Khong
+[insert 80]- thanh cong
++key =6932
++hash value =211
+Xung dot =Co
+[insert 81]- thanh cong
++key =5246
++hash value =206
+Xung dot =Khong
+[insert 82]- thanh cong
++key =1005
++hash value =124
+Xung dot =Khong
+[insert 83]- thanh cong
++key =7420
++hash value =812
+Xung dot =Khong
+[insert 84]- thanh cong
++key =9048
++hash value =971
+Xung dot =Khong
+[insert 85]- thanh cong
++key =1008
++hash value =978
+Xung dot =Khong
+[insert 86]- thanh cong
++key =7973
++hash value =584
+Xung dot =Khong
+[insert 87]- thanh cong
++key =2029
++hash value =990
+Xung dot =Khong
+[insert 88]- thanh cong
++key =3868
++hash value =555
+Xung dot =Khong
+[insert 89]- thanh cong
++key =8443
++hash value =60
+Xung dot =Khong
+[insert 90]- thanh cong
++key =8954
++hash value =876
+Xung dot =Khong
+[insert 91]- thanh cong
++key =3099
++hash value =287
+Xung dot =Khong
+[insert 92]- thanh cong
++key =4683
++hash value =253
+Xung dot =Khong
+[insert 93]- thanh cong
++key =468
++hash value =239
+Xung dot =Khong
+[insert 94]- thanh cong
++key =5822
++hash value =193
+Xung dot =Khong
+[insert 95]- thanh cong
++key =2290
++hash value =297
+Xung dot =Khong
+[insert 96]- thanh cong
++key =9534
++hash value =336
+Xung dot =Khong
+[insert 97]- thanh cong
++key =9821
++hash value =711
+Xung dot =Khong
+[insert 98]- thanh cong
++key =4636
++hash value =205
+Xung dot =Khong
+[insert 99]- thanh cong
++key =9006
++hash value =14
+Xung dot =Khong
+[insert 100]- thanh cong
++key =5542
++hash value =144
+Xung dot =Khong
+[insert 101]- thanh cong
++key =6166
++hash value =797
+Xung dot =Khong
+[insert 102]- thanh cong
++key =9089
++hash value =310
+Xung dot =Khong
+[insert 103]- thanh cong
++key =2459
++hash value =745
+Xung dot =Khong
+[insert 104]- thanh cong
++key =9786
++hash value =80
+Xung dot =Khong
+[insert 105]- thanh cong
++key =9238
++hash value =397
+Xung dot =Khong
+[insert 106]- thanh cong
++key =5131
++hash value =132
+Xung dot =Khong
+[insert 107]- thanh cong
++key =8221
++hash value =857
+Xung dot =Khong
+[insert 108]- thanh cong
++key =5857
++hash value =825
+Xung dot =Khong
+[insert 109]- thanh cong
++key =6682
++hash value =703
+Xung dot =Khong
+[insert 110]- thanh cong
++key =513
++hash value =51
+Xung dot =Khong
+[insert 111]- thanh cong
++key =9506
++hash value =31
+Xung dot =Khong
+[insert 112]- thanh cong
++key =7538
++hash value =740
+Xung dot =Khong
+[insert 113]- thanh cong
++key =318
++hash value =534
+Xung dot =Khong
+[insert 114]- thanh cong
++key =2644
++hash value =81
+Xung dot =Khong
+[insert 115]- thanh cong
++key =8484
++hash value =400
+Xung dot =Khong
+[insert 116]- thanh cong
++key =8282
++hash value =557
+Xung dot =Khong
+[insert 117]- thanh cong
++key =1354
++hash value =818
+Xung dot =Khong
+[insert 118]- thanh cong
++key =9573
++hash value =439
+Xung dot =Khong
+[insert 119]- thanh cong
++key =658
++hash value =666
+Xung dot =Khong
+[insert 120]- thanh cong
++key =5182
++hash value =652
+Xung dot =Khong
+[insert 121]- thanh cong
++key =5342
++hash value =537
+Xung dot =Co
+[insert 122]- thanh cong
++key =9015
++hash value =576
+Xung dot =Khong
+[insert 123]- thanh cong
++key =3570
++hash value =381
+Xung dot =Khong
+[insert 124]- thanh cong
++key =6545
++hash value =32
+Xung dot =Khong
+[insert 125]- thanh cong
++key =1233
++hash value =35
+Xung dot =Khong
+[insert 126]- thanh cong
++key =1477
++hash value =836
+Xung dot =Khong
+[insert 127]- thanh cong
++key =5360
++hash value =662
+Xung dot =Khong
+[insert 128]- thanh cong
++key =4713
++hash value =794
+Xung dot =Khong
+[insert 129]- thanh cong
++key =9958
++hash value =382
+Xung dot =Khong
+[insert 130]- thanh cong
++key =9639
++hash value =229
+Xung dot =Khong
+[insert 131]- thanh cong
++key =9210
++hash value =93
+Xung dot =Khong
+[insert 132]- thanh cong
++key =3053
++hash value =857
+Xung dot =Co
+[insert 133]- thanh cong
++key =4592
++hash value =12
+Xung dot =Khong
+[insert 134]- thanh cong
++key =3249
++hash value =992
+Xung dot =Khong
+[insert 135]- thanh cong
++key =863
++hash value =363
+Xung dot =Co
+[insert 136]- thanh cong
++key =2801
++hash value =113
+Xung dot =Khong
+[insert 137]- thanh cong
++key =728
++hash value =928
+Xung dot =Khong
+[insert 138]- thanh cong
++key =4029
++hash value =58
+Xung dot =Khong
+[insert 139]- thanh cong
++key =7125
++hash value =492
+Xung dot =Khong
+[insert 140]- thanh cong
++key =6966
++hash value =224
+Xung dot =Khong
+[insert 141]- thanh cong
++key =7148
++hash value =706
+Xung dot =Khong
+[insert 142]- thanh cong
++key =8139
++hash value =178
+Xung dot =Khong
+[insert 143]- thanh cong
++key =682
++hash value =499
+Xung dot =Khong
+[insert 144]- thanh cong
++key =9115
++hash value =379
+Xung dot =Khong
+[insert 145]- thanh cong
++key =170
++hash value =65
+Xung dot =Khong
+[insert 146]- thanh cong
++key =3461
++hash value =15
+Xung dot =Khong
+[insert 147]- thanh cong
++key =5293
++hash value =253
+Xung dot =Co
+[insert 148]- thanh cong
++key =2761
++hash value =391
+Xung dot =Khong
+[insert 149]- thanh cong
++key =1918
++hash value =389
+Xung dot =Khong
+[insert 150]- thanh cong
++key =9896
++hash value =64
+Xung dot =Khong
+[insert 151]- thanh cong
++key =8382
++hash value =360
+Xung dot =Khong
+[insert 152]- thanh cong
++key =7885
++hash value =198
+Xung dot =Khong
+[insert 153]- thanh cong
++key =1432
++hash value =24
+Xung dot =Khong
+[insert 154]- thanh cong
++key =6960
++hash value =516
+Xung dot =Khong
+[insert 155]- thanh cong
++key =2323
++hash value =692
+Xung dot =Khong
+[insert 156]- thanh cong
++key =967
++hash value =638
+Xung dot =Khong
+[insert 157]- thanh cong
++key =401
++hash value =831
+Xung dot =Khong
+[insert 158]- thanh cong
++key =7074
++hash value =972
+Xung dot =Khong
+[insert 159]- thanh cong
++key =8685
++hash value =625
+Xung dot =Khong
+[insert 160]- thanh cong
++key =6115
++hash value =277
+Xung dot =Co
+[insert 161]- thanh cong
++key =3215
++hash value =979
+Xung dot =Khong
+[insert 162]- thanh cong
++key =2672
++hash value =386
+Xung dot =Khong
+[insert 163]- thanh cong
++key =3771
++hash value =606
+Xung dot =Khong
+[insert 164]- thanh cong
++key =3221
++hash value =687
+Xung dot =Khong
+[insert 165]- thanh cong
++key =5096
++hash value =501
+Xung dot =Khong
+[insert 166]- thanh cong
++key =3801
++hash value =147
+Xung dot =Khong
+[insert 167]- thanh cong
++key =2221
++hash value =653
+Xung dot =Khong
+[insert 168]- thanh cong
++key =571
++hash value =897
+Xung dot =Khong
+[insert 169]- thanh cong
++key =5412
++hash value =799
+Xung dot =Khong
+[insert 170]- thanh cong
++key =6511
++hash value =19
+Xung dot =Khong
+[insert 171]- thanh cong
++key =8539
++hash value =392
+Xung dot =Khong
+[insert 172]- thanh cong
++key =126
++hash value =872
+Xung dot =Khong
+[insert 173]- thanh cong
++key =5477
++hash value =972
+Xung dot =Co
+[insert 174]- thanh cong
++key =5037
++hash value =37
+Xung dot =Khong
+[insert 175]- thanh cong
++key =982
++hash value =909
+Xung dot =Khong
+[insert 176]- thanh cong
++key =2488
++hash value =668
+Xung dot =Khong
+[insert 177]- thanh cong
++key =523
++hash value =231
+Xung dot =Khong
+[insert 178]- thanh cong
++key =8953
++hash value =258
+Xung dot =Khong
+[insert 179]- thanh cong
++key =5087
++hash value =938
+Xung dot =Co
+[insert 180]- thanh cong
++key =4492
++hash value =208
+Xung dot =Khong
+[insert 181]- thanh cong
++key =4867
++hash value =971
+Xung dot =Co
+[insert 182]- thanh cong
++key =8934
++hash value =515
+Xung dot =Co
+[insert 183]- thanh cong
++key =3416
++hash value =204
+Xung dot =Co
+[insert 184]- thanh cong
++key =7219
++hash value =587
+Xung dot =Co
+[insert 185]- thanh cong
++key =3648
++hash value =587
+Xung dot =Co
+[insert 186]- thanh cong
++key =173
++hash value =919
+Xung dot =Khong
+[insert 187]- thanh cong
++key =8792
++hash value =754
+Xung dot =Khong
+[insert 188]- thanh cong
++key =6771
++hash value =708
+Xung dot =Khong
+[insert 189]- thanh cong
++key =765
++hash value =796
+Xung dot =Khong
+[insert 190]- thanh cong
++key =1357
++hash value =672
+Xung dot =Khong
+[insert 191]- thanh cong
++key =4227
++hash value =429
+Xung dot =Khong
+[insert 192]- thanh cong
++key =1589
++hash value =56
+Xung dot =Khong
+[insert 193]- thanh cong
++key =5938
++hash value =885
+Xung dot =Khong
+[insert 194]- thanh cong
++key =3968
++hash value =358
+Xung dot =Khong
+[insert 195]- thanh cong
++key =6344
++hash value =807
+Xung dot =Khong
+[insert 196]- thanh cong
++key =6038
++hash value =689
+Xung dot =Khong
+[insert 197]- thanh cong
++key =357
++hash value =638
+Xung dot =Co
+[insert 198]- thanh cong
++key =9200
++hash value =912
+Xung dot =Khong
+[insert 199]- thanh cong
++key =9356
++hash value =325
+Xung dot =Khong
+[insert 200]- thanh cong
++key =4510
++hash value =333
+Xung dot =Khong
+[insert 201]- thanh cong
++key =8930
++hash value =43
+Xung dot =Khong
+[insert 202]- thanh cong
++key =3850
++hash value =430
+Xung dot =Co
+[insert 203]- thanh cong
++key =232
++hash value =383
+Xung dot =Khong
+[insert 204]- thanh cong
++key =7456
++hash value =61
+Xung dot =Khong
+[insert 205]- thanh cong
++key =4126
++hash value =8
+Xung dot =Khong
+[insert 206]- thanh cong
++key =2033
++hash value =463
+Xung dot =Khong
+[insert 207]- thanh cong
++key =3359
++hash value =976
+Xung dot =Khong
+[insert 208]- thanh cong
++key =833
++hash value =822
+Xung dot =Khong
+[insert 209]- thanh cong
++key =1737
++hash value =525
+Xung dot =Khong
+[insert 210]- thanh cong
++key =5158
++hash value =819
+Xung dot =Khong
+[insert 211]- thanh cong
++key =7939
++hash value =571
+Xung dot =Khong
+[insert 212]- thanh cong
++key =6989
++hash value =439
+Xung dot =Co
+[insert 213]- thanh cong
++key =7858
++hash value =511
+Xung dot =Khong
+[insert 214]- thanh cong
++key =3608
++hash value =866
+Xung dot =Khong
+[insert 215]- thanh cong
++key =3192
++hash value =764
+Xung dot =Co
+[insert 216]- thanh cong
++key =6310
++hash value =794
+Xung dot =Co
+[insert 217]- thanh cong
++key =3567
++hash value =527
+Xung dot =Khong
+[insert 218]- thanh cong
++key =4886
++hash value =714
+Xung dot =Khong
+[insert 219]- thanh cong
++key =3544
++hash value =312
+Xung dot =Khong
+[insert 220]- thanh cong
++key =3214
++hash value =361
+Xung dot =Khong
+[insert 221]- thanh cong
++key =4445
++hash value =161
+Xung dot =Khong
+[insert 222]- thanh cong
++key =5532
++hash value =964
+Xung dot =Khong
+[insert 223]- thanh cong
++key =4856
++hash value =173
+Xung dot =Khong
+[insert 224]- thanh cong
++key =805
++hash value =517
+Xung dot =Khong
+[insert 225]- thanh cong
++key =5374
++hash value =314
+Xung dot =Khong
+[insert 226]- thanh cong
++key =7883
++hash value =961
+Xung dot =Khong
+[insert 227]- thanh cong
++key =8536
++hash value =538
+Xung dot =Khong
+[insert 228]- thanh cong
++key =5776
++hash value =764
+Xung dot =Co
+[insert 229]- thanh cong
++key =4830
++hash value =104
+Xung dot =Khong
+[insert 230]- thanh cong
++key =7078
++hash value =444
+Xung dot =Khong
+[insert 231]- thanh cong
++key =9459
++hash value =983
+Xung dot =Khong
+[insert 232]- thanh cong
++key =1564
++hash value =605
+Xung dot =Khong
+[insert 233]- thanh cong
++key =8932
++hash value =279
+Xung dot =Khong
+[insert 234]- thanh cong
++key =36
++hash value =249
+Xung dot =Khong
+[insert 235]- thanh cong
++key =3653
++hash value =678
+Xung dot =Co
+[insert 236]- thanh cong
++key =3807
++hash value =855
+Xung dot =Khong
+[insert 237]- thanh cong
++key =2415
++hash value =552
+Xung dot =Khong
+[insert 238]- thanh cong
++key =8907
++hash value =828
+Xung dot =Khong
+[insert 239]- thanh cong
++key =5214
++hash value =429
+Xung dot =Co
+[insert 240]- thanh cong
++key =7115
++hash value =311
+Xung dot =Khong
+[insert 241]- thanh cong
++key =4199
++hash value =124
+Xung dot =Co
+[insert 242]- thanh cong
++key =1215
++hash value =911
+Xung dot =Khong
+[insert 243]- thanh cong
++key =2498
++hash value =848
+Xung dot =Khong
+[insert 244]- thanh cong
++key =2339
++hash value =581
+Xung dot =Khong
+[insert 245]- thanh cong
++key =532
++hash value =794
+Xung dot =Co
+[insert 246]- thanh cong
++key =639
++hash value =923
+Xung dot =Khong
+[insert 247]- thanh cong
++key =7405
++hash value =541
+Xung dot =Khong
+[insert 248]- thanh cong
++key =2340
++hash value =199
+Xung dot =Khong
+[insert 249]- thanh cong
++key =9979
++hash value =361
+Xung dot =Co
+[insert 250]- thanh cong
++key =6592
++hash value =80
+Xung dot =Co
+[insert 251]- thanh cong
++key =3512
++hash value =535
+Xung dot =Khong
+[insert 252]- thanh cong
++key =6665
++hash value =196
+Xung dot =Khong
+[insert 253]- thanh cong
++key =5430
++hash value =924
+Xung dot =Khong
+[insert 254]- thanh cong
++key =3889
++hash value =534
+Xung dot =Co
+[insert 255]- thanh cong
++key =672
++hash value =318
+Xung dot =Khong
+[insert 256]- thanh cong
++key =6514
++hash value =873
+Xung dot =Khong
+[insert 257]- thanh cong
++key =475
++hash value =566
+Xung dot =Khong
+[insert 258]- thanh cong
++key =8179
++hash value =899
+Xung dot =Co
+[insert 259]- thanh cong
++key =6080
++hash value =646
+Xung dot =Khong
+[insert 260]- thanh cong
++key =236
++hash value =856
+Xung dot =Khong
+[insert 261]- thanh cong
++key =6642
++hash value =981
+Xung dot =Khong
+[insert 262]- thanh cong
++key =1538
++hash value =536
+Xung dot =Khong
+[insert 263]- thanh cong
++key =5463
++hash value =319
+Xung dot =Khong
+[insert 264]- thanh cong
++key =2423
++hash value =496
+Xung dot =Khong
+[insert 265]- thanh cong
++key =4152
++hash value =77
+Xung dot =Khong
+[insert 266]- thanh cong
++key =3846
++hash value =958
+Xung dot =Khong
+[insert 267]- thanh cong
++key =9023
++hash value =520
+Xung dot =Khong
+[insert 268]- thanh cong
++key =8093
++hash value =749
+Xung dot =Khong
+[insert 269]- thanh cong
++key =6244
++hash value =4
+Xung dot =Khong
+[insert 270]- thanh cong
++key =6279
++hash value =635
+Xung dot =Khong
+[insert 271]- thanh cong
++key =9066
++hash value =96
+Xung dot =Khong
+[insert 272]- thanh cong
++key =6189
++hash value =12
+Xung dot =Co
+[insert 273]- thanh cong
++key =9236
++hash value =161
+Xung dot =Co
+[insert 274]- thanh cong
++key =781
++hash value =684
+Xung dot =Khong
+[insert 275]- thanh cong
++key =4949
++hash value =650
+Xung dot =Khong
+[insert 276]- thanh cong
++key =1081
++hash value =94
+Xung dot =Khong
+[insert 277]- thanh cong
++key =6342
++hash value =571
+Xung dot =Co
+[insert 278]- thanh cong
++key =8785
++hash value =428
+Xung dot =Khong
+[insert 279]- thanh cong
++key =2622
++hash value =485
+Xung dot =Khong
+[insert 280]- thanh cong
++key =1561
++hash value =751
+Xung dot =Khong
+[insert 281]- thanh cong
++key =6400
++hash value =417
+Xung dot =Khong
+[insert 282]- thanh cong
++key =2135
++hash value =502
+Xung dot =Khong
+[insert 283]- thanh cong
++key =2588
++hash value =471
+Xung dot =Khong
+[insert 284]- thanh cong
++key =2787
++hash value =460
+Xung dot =Khong
+[insert 285]- thanh cong
++key =314
++hash value =62
+Xung dot =Khong
+[insert 286]- thanh cong
++key =8572
++hash value =787
+Xung dot =Khong
+[insert 287]- thanh cong
++key =324
++hash value =243
+Xung dot =Khong
+[insert 288]- thanh cong
++key =6272
++hash value =309
+Xung dot =Khong
+[insert 289]- thanh cong
++key =9471
++hash value =399
+Xung dot =Khong
+[insert 290]- thanh cong
++key =1486
++hash value =398
+Xung dot =Co
+[insert 291]- thanh cong
++key =192
++hash value =662
+Xung dot =Co
+[insert 292]- thanh cong
++key =5752
++hash value =931
+Xung dot =Khong
+[insert 293]- thanh cong
++key =8595
++hash value =2
+Xung dot =Khong
+[insert 294]- thanh cong
++key =2958
++hash value =144
+Xung dot =Co
+[insert 295]- thanh cong
++key =1067
++hash value =442
+Xung dot =Khong
+[insert 296]- thanh cong
++key =8842
++hash value =656
+Xung dot =Khong
+[insert 297]- thanh cong
++key =7433
++hash value =846
+Xung dot =Khong
+[insert 298]- thanh cong
++key =2534
++hash value =98
+Xung dot =Khong
+[insert 299]- thanh cong
++key =1749
++hash value =941
+Xung dot =Khong
+[insert 300]- thanh cong
++key =4897
++hash value =512
+Xung dot =Khong
+[insert 301]- thanh cong
++key =5331
++hash value =739
+Xung dot =Khong
+[insert 302]- thanh cong
++key =2941
++hash value =637
+Xung dot =Khong
+[insert 303]- thanh cong
++key =2606
++hash value =596
+Xung dot =Khong
+[insert 304]- thanh cong
++key =5891
++hash value =838
+Xung dot =Khong
+[insert 305]- thanh cong
++key =9448
++hash value =185
+Xung dot =Co
+[insert 306]- thanh cong
++key =96
++hash value =331
+Xung dot =Khong
+[insert 307]- thanh cong
++key =4603
++hash value =810
+Xung dot =Khong
+[insert 308]- thanh cong
++key =3602
++hash value =158
+Xung dot =Khong
+[insert 309]- thanh cong
++key =5972
++hash value =898
+Xung dot =Khong
+[insert 310]- thanh cong
++key =6365
++hash value =786
+Xung dot =Khong
+[insert 311]- thanh cong
++key =4586
++hash value =303
+Xung dot =Khong
+[insert 312]- thanh cong
++key =9176
++hash value =79
+Xung dot =Khong
+[insert 313]- thanh cong
++key =7201
++hash value =462
+Xung dot =Khong
+[insert 314]- thanh cong
++key =6987
++hash value =203
+Xung dot =Khong
+[insert 315]- thanh cong
++key =217
++hash value =113
+Xung dot =Co
+[insert 316]- thanh cong
++key =7243
++hash value =420
+Xung dot =Khong
+[insert 317]- thanh cong
++key =3873
++hash value =645
+Xung dot =Khong
+[insert 318]- thanh cong
++key =4749
++hash value =43
+Xung dot =Co
+[insert 319]- thanh cong
++key =258
++hash value =452
+Xung dot =Khong
+[insert 320]- thanh cong
++key =2883
++hash value =791
+Xung dot =Khong
+[insert 321]- thanh cong
++key =1537
++hash value =918
+Xung dot =Khong
+[insert 322]- thanh cong
++key =2565
++hash value =257
+Xung dot =Co
+[insert 323]- thanh cong
++key =4096
++hash value =467
+Xung dot =Khong
+[insert 324]- thanh cong
++key =3783
++hash value =22
+Xung dot =Khong
+[insert 325]- thanh cong
++key =3204
++hash value =180
+Xung dot =Khong
+[insert 326]- thanh cong
++key =9782
++hash value =608
+Xung dot =Co
+[insert 327]- thanh cong
++key =893
++hash value =904
+Xung dot =Khong
+[insert 328]- thanh cong
++key =9151
++hash value =629
+Xung dot =Khong
+[insert 329]- thanh cong
++key =9146
++hash value =538
+Xung dot =Co
+[insert 330]- thanh cong
++key =6027
++hash value =890
+Xung dot =Khong
+[insert 331]- thanh cong
++key =3197
++hash value =854
+Xung dot =Khong
+[insert 332]- thanh cong
++key =4468
++hash value =375
+Xung dot =Khong
+[insert 333]- thanh cong
++key =4491
++hash value =590
+Xung dot =Khong
+[insert 334]- thanh cong
++key =623
++hash value =35
+Xung dot =Co
+[insert 335]- thanh cong
++key =7326
++hash value =717
+Xung dot =Khong
+[insert 336]- thanh cong
++key =7839
++hash value =768
+Xung dot =Khong
+[insert 337]- thanh cong
++key =1987
++hash value =33
+Xung dot =Khong
+[insert 338]- thanh cong
++key =6029
++hash value =126
+Xung dot =Khong
+[insert 339]- thanh cong
++key =4744
++hash value =953
+Xung dot =Khong
+[insert 340]- thanh cong
++key =3718
++hash value =850
+Xung dot =Khong
+[insert 341]- thanh cong
++key =1886
++hash value =612
+Xung dot =Khong
+[insert 342]- thanh cong
++key =9391
++hash value =957
+Xung dot =Khong
+[insert 343]- thanh cong
++key =8784
++hash value =810
+Xung dot =Co
+[insert 344]- thanh cong
++key =1919
++hash value =7
+Xung dot =Khong
+[insert 345]- thanh cong
++key =892
++hash value =286
+Xung dot =Khong
+[insert 346]- thanh cong
++key =8886
++hash value =850
+Xung dot =Co
+[insert 347]- thanh cong
++key =2116
++hash value =759
+Xung dot =Khong
+[insert 348]- thanh cong
++key =249
++hash value =890
+Xung dot =Co
+[insert 349]- thanh cong
++key =392
++hash value =269
+Xung dot =Khong
+[insert 350]- thanh cong
++key =5730
++hash value =334
+Xung dot =Khong
+[insert 351]- thanh cong
++key =8752
++hash value =33
+Xung dot =Co
+[insert 352]- thanh cong
++key =5042
++hash value =127
+Xung dot =Khong
+[insert 353]- thanh cong
++key =6506
++hash value =929
+Xung dot =Khong
+[insert 354]- thanh cong
++key =9546
++hash value =752
+Xung dot =Khong
+[insert 355]- thanh cong
++key =4130
++hash value =480
+Xung dot =Khong
+[insert 356]- thanh cong
++key =1933
++hash value =659
+Xung dot =Khong
+[insert 357]- thanh cong
++key =7767
++hash value =269
+Xung dot =Co
+[insert 358]- thanh cong
++key =1676
++hash value =824
+Xung dot =Khong
+[insert 359]- thanh cong
++key =1297
++hash value =590
+Xung dot =Co
+[insert 360]- thanh cong
++key =6950
++hash value =336
+Xung dot =Co
+[insert 361]- thanh cong
++key =4375
++hash value =898
+Xung dot =Co
+[insert 362]- thanh cong
++key =7233
++hash value =239
+Xung dot =Co
+[insert 363]- thanh cong
++key =6219
++hash value =553
+Xung dot =Khong
+[insert 364]- thanh cong
++key =9224
++hash value =745
+Xung dot =Co
+[insert 365]- thanh cong
++key =2724
++hash value =524
+Xung dot =Khong
+[insert 366]- thanh cong
++key =9737
++hash value =796
+Xung dot =Co
+[insert 367]- thanh cong
++key =6745
++hash value =639
+Xung dot =Khong
+[insert 368]- thanh cong
++key =6813
++hash value =665
+Xung dot =Khong
+[insert 369]- thanh cong
++key =629
++hash value =743
+Xung dot =Khong
+[insert 370]- thanh cong
++key =2247
++hash value =722
+Xung dot =Khong
+[insert 371]- thanh cong
++key =917
++hash value =737
+Xung dot =Khong
+[insert 372]- thanh cong
++key =4075
++hash value =488
+Xung dot =Khong
+[insert 373]- thanh cong
++key =408
++hash value =157
+Xung dot =Khong
+[insert 374]- thanh cong
++key =8290
++hash value =501
+Xung dot =Co
+[insert 375]- thanh cong
++key =2381
++hash value =538
+Xung dot =Co
+[insert 376]- thanh cong
++key =5365
++hash value =752
+Xung dot =Co
+[insert 377]- thanh cong
++key =563
++hash value =953
+Xung dot =Co
+[insert 378]- thanh cong
++key =9762
++hash value =247
+Xung dot =Khong
+[insert 379]- thanh cong
++key =6894
++hash value =726
+Xung dot =Khong
+[insert 380]- thanh cong
++key =9942
++hash value =493
+Xung dot =Khong
+[insert 381]- thanh cong
++key =121
++hash value =782
+Xung dot =Khong
+[insert 382]- thanh cong
++key =6011
++hash value =2
+Xung dot =Co
+[insert 383]- thanh cong
++key =9478
++hash value =726
+Xung dot =Co
+[insert 384]- thanh cong
++key =2048
++hash value =733
+Xung dot =Khong
+[insert 385]- thanh cong
++key =6496
++hash value =748
+Xung dot =Khong
+[insert 386]- thanh cong
++key =295
++hash value =320
+Xung dot =Khong
+[insert 387]- thanh cong
++key =7020
++hash value =598
+Xung dot =Khong
+[insert 388]- thanh cong
++key =7946
++hash value =898
+Xung dot =Co
+[insert 389]- thanh cong
++key =6117
++hash value =513
+Xung dot =Khong
+[insert 390]- thanh cong
++key =8255
++hash value =870
+Xung dot =Khong
+[insert 391]- thanh cong
++key =4271
++hash value =623
+Xung dot =Khong
+[insert 392]- thanh cong
++key =8786
++hash value =46
+Xung dot =Co
+[insert 393]- thanh cong
++key =3297
++hash value =658
+Xung dot =Khong
+[insert 394]- thanh cong
++key =3677
++hash value =510
+Xung dot =Khong
+[insert 395]- thanh cong
++key =1421
++hash value =226
+Xung dot =Khong
+[insert 396]- thanh cong
++key =2213
++hash value =709
+Xung dot =Co
+[insert 397]- thanh cong
++key =7047
++hash value =285
+Xung dot =Khong
+[insert 398]- thanh cong
++key =3302
++hash value =748
+Xung dot =Co
+[insert 399]- thanh cong
++key =9803
++hash value =587
+Xung dot =Co
+[insert 400]- thanh cong
++key =3363
++hash value =448
+Xung dot =Khong
+[insert 401]- thanh cong
++key =1138
++hash value =322
+Xung dot =Khong
+[insert 402]- thanh cong
++key =9279
++hash value =737
+Xung dot =Co
+[insert 403]- thanh cong
++key =183
++hash value =100
+Xung dot =Khong
+[insert 404]- thanh cong
++key =2981
++hash value =359
+Xung dot =Khong
+[insert 405]- thanh cong
++key =5514
++hash value =839
+Xung dot =Khong
+[insert 406]- thanh cong
++key =7003
++hash value =92
+Xung dot =Khong
+[insert 407]- thanh cong
++key =1582
++hash value =729
+Xung dot =Khong
+[insert 408]- thanh cong
++key =498
++hash value =780
+Xung dot =Khong
+[insert 409]- thanh cong
++key =8334
++hash value =695
+Xung dot =Khong
+[insert 410]- thanh cong
++key =9207
++hash value =238
+Xung dot =Khong
+[insert 411]- thanh cong
++key =981
++hash value =291
+Xung dot =Khong
+[insert 412]- thanh cong
++key =1789
++hash value =662
+Xung dot =Co
+[insert 413]- thanh cong
++key =4061
++hash value =836
+Xung dot =Co
+[insert 414]- thanh cong
++key =3668
++hash value =948
+Xung dot =Khong
+[insert 415]- thanh cong
++key =8104
++hash value =547
+Xung dot =Khong
+[insert 416]- thanh cong
++key =3825
++hash value =980
+Xung dot =Khong
+[insert 417]- thanh cong
++key =6795
++hash value =540
+Xung dot =Khong
+[insert 418]- thanh cong
++key =4363
++hash value =482
+Xung dot =Khong
+[insert 419]- thanh cong
++key =2881
++hash value =555
+Xung dot =Co
+[insert 420]- thanh cong
++key =9328
++hash value =21
+Xung dot =Khong
+[insert 421]- thanh cong
++key =5698
++hash value =557
+Xung dot =Co
+[insert 422]- thanh cong
++key =6684
++hash value =939
+Xung dot =Co
+[insert 423]- thanh cong
++key =1963
++hash value =200
+Xung dot =Khong
+[insert 424]- thanh cong
++key =7304
++hash value =120
+Xung dot =Khong
+[insert 425]- thanh cong
++key =4327
++hash value =233
+Xung dot =Khong
+[insert 426]- thanh cong
++key =6760
++hash value =909
+Xung dot =Co
+[insert 427]- thanh cong
++key =2951
++hash value =818
+Xung dot =Co
+[insert 428]- thanh cong
++key =615
++hash value =90
+Xung dot =Khong
+[insert 429]- thanh cong
++key =5183
++hash value =270
+Xung dot =Khong
+[insert 430]- thanh cong
++key =3600
++hash value =922
+Xung dot =Khong
+[insert 431]- thanh cong
++key =8431
++hash value =644
+Xung dot =Khong
+[insert 432]- thanh cong
++key =736
++hash value =873
+Xung dot =Co
+[insert 433]- thanh cong
++key =5298
++hash value =344
+Xung dot =Co
+[insert 434]- thanh cong
++key =6429
++hash value =340
+Xung dot =Khong
+[insert 435]- thanh cong
++key =7225
++hash value =295
+Xung dot =Khong
+[insert 436]- thanh cong
++key =862
++hash value =745
+Xung dot =Co
+[insert 437]- thanh cong
++key =159
++hash value =267
+Xung dot =Khong
+[insert 438]- thanh cong
++key =3169
++hash value =549
+Xung dot =Khong
+[insert 439]- thanh cong
++key =1119
++hash value =580
+Xung dot =Khong
+[insert 440]- thanh cong
++key =7689
++hash value =63
+Xung dot =Khong
+[insert 441]- thanh cong
++key =6256
++hash value =420
+Xung dot =Co
+[insert 442]- thanh cong
++key =3501
++hash value =736
+Xung dot =Co
+[insert 443]- thanh cong
++key =9997
++hash value =485
+Xung dot =Co
+[insert 444]- thanh cong
++key =8839
++hash value =802
+Xung dot =Khong
+[insert 445]- thanh cong
++key =6782
++hash value =506
+Xung dot =Khong
+[insert 446]- thanh cong
++key =4165
++hash value =111
+Xung dot =Khong
+[insert 447]- thanh cong
++key =9818
++hash value =857
+Xung dot =Co
+[insert 448]- thanh cong
++key =9828
++hash value =38
+Xung dot =Khong
+[insert 449]- thanh cong
++key =3096
++hash value =433
+Xung dot =Khong
+[insert 450]- thanh cong
++key =7153
++hash value =797
+Xung dot =Co
+[insert 451]- thanh cong
++key =2970
++hash value =560
+Xung dot =Khong
+[insert 452]- thanh cong
++key =6469
++hash value =61
+Xung dot =Co
+[insert 453]- thanh cong
++key =1825
++hash value =912
+Xung dot =Co
+[insert 454]- thanh cong
++key =613
++hash value =854
+Xung dot =Co
+[insert 455]- thanh cong
++key =1586
++hash value =201
+Xung dot =Khong
+[insert 456]- thanh cong
++key =1338
++hash value =929
+Xung dot =Co
+[insert 457]- thanh cong
++key =4872
++hash value =61
+Xung dot =Co
+[insert 458]- thanh cong
++key =964
++hash value =784
+Xung dot =Khong
+[insert 459]- thanh cong
++key =2750
++hash value =593
+Xung dot =Khong
+[insert 460]- thanh cong
++key =6546
++hash value =650
+Xung dot =Co
+[insert 461]- thanh cong
++key =2027
++hash value =754
+Xung dot =Co
+[insert 462]- thanh cong
++key =496
++hash value =544
+Xung dot =Khong
+[insert 463]- thanh cong
++key =1249
++hash value =924
+Xung dot =Co
+[insert 464]- thanh cong
++key =2515
++hash value =355
+Xung dot =Khong
+[insert 465]- thanh cong
++key =3614
++hash value =574
+Xung dot =Khong
+[insert 466]- thanh cong
++key =8357
++hash value =910
+Xung dot =Khong
+[insert 467]- thanh cong
++key =2651
++hash value =408
+Xung dot =Khong
+[insert 468]- thanh cong
++key =6058
++hash value =49
+Xung dot =Khong
+[insert 469]- thanh cong
++key =3321
++hash value =490
+Xung dot =Co
+[insert 470]- thanh cong
++key =4711
++hash value =558
+Xung dot =Khong
+[insert 471]- thanh cong
++key =7903
++hash value =322
+Xung dot =Co
+[insert 472]- thanh cong
++key =3568
++hash value =145
+Xung dot =Khong
+[insert 473]- thanh cong
++key =7224
++hash value =677
+Xung dot =Khong
+[insert 474]- thanh cong
++key =1141
++hash value =176
+Xung dot =Khong
+[insert 475]- thanh cong
++key =398
++hash value =977
+Xung dot =Khong
+[insert 476]- thanh cong
++key =7751
++hash value =381
+Xung dot =Co
+[insert 477]- thanh cong
++key =1199
++hash value =22
+Xung dot =Co
+[insert 478]- thanh cong
++key =1917
++hash value =771
+Xung dot =Co
+[insert 479]- thanh cong
++key =2978
++hash value =505
+Xung dot =Khong
+[insert 480]- thanh cong
++key =3045
++hash value =913
+Xung dot =Khong
+[insert 481]- thanh cong
++key =1414
++hash value =900
+Xung dot =Khong
+[insert 482]- thanh cong
++key =4614
++hash value =608
+Xung dot =Co
+[insert 483]- thanh cong
++key =5506
++hash value =895
+Xung dot =Co
+[insert 484]- thanh cong
++key =440
++hash value =934
+Xung dot =Khong
+[insert 485]- thanh cong
++key =2098
++hash value =635
+Xung dot =Co
+[insert 486]- thanh cong
++key =9630
++hash value =667
+Xung dot =Khong
+[insert 487]- thanh cong
++key =9616
++hash value =14
+Xung dot =Co
+[insert 488]- thanh cong
++key =5242
++hash value =734
+Xung dot =Khong
+[insert 489]- thanh cong
++key =7384
++hash value =562
+Xung dot =Khong
+[insert 490]- thanh cong
++key =8490
++hash value =108
+Xung dot =Khong
+[insert 491]- thanh cong
++key =9647
++hash value =173
+Xung dot =Co
+[insert 492]- thanh cong
++key =1315
++hash value =714
+Xung dot =Co
+[insert 493]- thanh cong
++key =8830
++hash value =240
+Xung dot =Khong
+[insert 494]- thanh cong
++key =1928
++hash value =569
+Xung dot =Co
+[insert 495]- thanh cong
++key =341
++hash value =749
+Xung dot =Co
+[insert 496]- thanh cong
++key =8286
++hash value =29
+Xung dot =Khong
+[insert 497]- thanh cong
++key =6656
++hash value =634
+Xung dot =Khong
+[insert 498]- thanh cong
++key =5411
++hash value =181
+Xung dot =Co
+[insert 499]- thanh cong
++key =7138
++hash value =526
+Xung dot =Khong
+[insert 500]- thanh cong
++key =1328
++hash value =749
+Xung dot =Co
+[insert 501]- thanh cong
++key =1909
++hash value =826
+Xung dot =Khong
+[insert 502]- thanh cong
++key =983
++hash value =527
+Xung dot =Co
+[insert 503]- thanh cong
++key =3040
++hash value =823
+Xung dot =Khong
+[insert 504]- thanh cong
++key =8087
++hash value =40
+Xung dot =Khong
+[insert 505]- thanh cong
++key =9585
++hash value =855
+Xung dot =Co
+[insert 506]- thanh cong
++key =5606
++hash value =698
+Xung dot =Khong
+[insert 507]- thanh cong
++key =3851
++hash value =48
+Xung dot =Khong
+[insert 508]- thanh cong
++key =4703
++hash value =613
+Xung dot =Khong
+[insert 509]- thanh cong
++key =8683
++hash value =389
+Xung dot =Co
+[insert 510]- thanh cong
++key =9787
++hash value =698
+Xung dot =Co
+[insert 511]- thanh cong
++key =3618
++hash value =46
+Xung dot =Co
+[insert 512]- thanh cong
++key =9963
++hash value =472
+Xung dot =Khong
+[insert 513]- thanh cong
++key =6002
++hash value =440
+Xung dot =Khong
+[insert 514]- thanh cong
++key =3900
++hash value =332
+Xung dot =Khong
+[insert 515]- thanh cong
++key =1903
++hash value =118
+Xung dot =Khong
+[insert 516]- thanh cong
++key =9954
++hash value =910
+Xung dot =Co
+[insert 517]- thanh cong
++key =2411
++hash value =79
+Xung dot =Co
+[insert 518]- thanh cong
++key =4933
++hash value =761
+Xung dot =Khong
+[insert 519]- thanh cong
++key =5507
++hash value =513
+Xung dot =Co
+[insert 520]- thanh cong
++key =7991
++hash value =709
+Xung dot =Co
+[insert 521]- thanh cong
++key =7182
++hash value =720
+Xung dot =Khong
+[insert 522]- thanh cong
++key =2115
++hash value =141
+Xung dot =Khong
+[insert 523]- thanh cong
++key =7814
++hash value =317
+Xung dot =Khong
+[insert 524]- thanh cong
++key =7549
++hash value =538
+Xung dot =Co
+[insert 525]- thanh cong
++key =2659
++hash value =352
+Xung dot =Khong
+[insert 526]- thanh cong
++key =3262
++hash value =26
+Xung dot =Khong
+[insert 527]- thanh cong
++key =2059
++hash value =531
+Xung dot =Khong
+[insert 528]- thanh cong
++key =2983
++hash value =595
+Xung dot =Khong
+[insert 529]- thanh cong
++key =1498
++hash value =814
+Xung dot =Khong
+[insert 530]- thanh cong
++key =8157
++hash value =303
+Xung dot =Co
+[insert 531]- thanh cong
++key =9133
++hash value =504
+Xung dot =Khong
+[insert 532]- thanh cong
++key =9795
++hash value =642
+Xung dot =Khong
+[insert 533]- thanh cong
++key =4527
++hash value =839
+Xung dot =Co
+[insert 534]- thanh cong
++key =7936
++hash value =717
+Xung dot =Co
+[insert 535]- thanh cong
++key =2636
++hash value =137
+Xung dot =Khong
+[insert 536]- thanh cong
++key =6462
++hash value =735
+Xung dot =Khong
+[insert 537]- thanh cong
++key =552
++hash value =154
+Xung dot =Khong
+[insert 538]- thanh cong
++key =373
++hash value =526
+Xung dot =Co
+[insert 539]- thanh cong
++key =5071
++hash value =50
+Xung dot =Khong
+[insert 540]- thanh cong
++key =818
++hash value =551
+Xung dot =Khong
+[insert 541]- thanh cong
++key =2858
++hash value =341
+Xung dot =Khong
+[insert 542]- thanh cong
++key =6017
++hash value =710
+Xung dot =Khong
+[insert 543]- thanh cong
++key =5373
++hash value =696
+Xung dot =Co
+[insert 544]- thanh cong
++key =5654
++hash value =364
+Xung dot =Khong
+[insert 545]- thanh cong
++key =3843
++hash value =104
+Xung dot =Co
+[insert 546]- thanh cong
++key =164
++hash value =357
+Xung dot =Khong
+[insert 547]- thanh cong
++key =4809
++hash value =125
+Xung dot =Khong
+[insert 548]- thanh cong
++key =6992
++hash value =293
+Xung dot =Khong
+[insert 549]- thanh cong
++key =7019
++hash value =980
+Xung dot =Co
+[insert 550]- thanh cong
++key =54
++hash value =373
+Xung dot =Khong
+[insert 551]- thanh cong
++key =7117
++hash value =547
+Xung dot =Co
+[insert 552]- thanh cong
++key =8768
++hash value =922
+Xung dot =Co
+[insert 553]- thanh cong
++key =5502
++hash value =423
+Xung dot =Khong
+[insert 554]- thanh cong
++key =3859
++hash value =993
+Xung dot =Khong
+[insert 555]- thanh cong
++key =5253
++hash value =532
+Xung dot =Khong
+[insert 556]- thanh cong
++key =2696
++hash value =219
+Xung dot =Khong
+[insert 557]- thanh cong
++key =3269
++hash value =353
+Xung dot =Khong
+[insert 558]- thanh cong
++key =9292
++hash value =771
+Xung dot =Co
+[insert 559]- thanh cong
++key =1824
++hash value =293
+Xung dot =Co
+[insert 560]- thanh cong
++key =7336
++hash value =897
+Xung dot =Co
+[insert 561]- thanh cong
++key =9732
++hash value =706
+Xung dot =Co
+[insert 562]- thanh cong
++key =1383
++hash value =741
+Xung dot =Khong
+[insert 563]- thanh cong
++key =4313
++hash value =580
+Xung dot =Co
+[insert 564]- thanh cong
++key =7823
++hash value =879
+Xung dot =Khong
+[insert 565]- thanh cong
++key =3561
++hash value =819
+Xung dot =Co
+[insert 566]- thanh cong
++key =7191
++hash value =282
+Xung dot =Khong
+[insert 567]- thanh cong
++key =5497
++hash value =332
+Xung dot =Co
+[insert 568]- thanh cong
++key =7411
++hash value =249
+Xung dot =Co
+[insert 569]- thanh cong
++key =9397
++hash value =665
+Xung dot =Co
+[insert 570]- thanh cong
++key =3213
++hash value =743
+Xung dot =Co
+[insert 571]- thanh cong
++key =7178
++hash value =247
+Xung dot =Co
+[insert 572]- thanh cong
++key =6755
++hash value =819
+Xung dot =Co
+[insert 573]- thanh cong
++key =9627
++hash value =813
+Xung dot =Khong
+[insert 574]- thanh cong
++key =6687
++hash value =793
+Xung dot =Khong
+[insert 575]- thanh cong
++key =2351
++hash value =997
+Xung dot =Khong
+[insert 576]- thanh cong
++key =6202
++hash value =46
+Xung dot =Co
+[insert 577]- thanh cong
++key =6070
++hash value =466
+Xung dot =Khong
+[insert 578]- thanh cong
++key =568
++hash value =43
+Xung dot =Co
+[insert 579]- thanh cong
++key =6226
++hash value =879
+Xung dot =Co
+[insert 580]- thanh cong
++key =9568
++hash value =349
+Xung dot =Khong
+[insert 581]- thanh cong
++key =7840
++hash value =386
+Xung dot =Co
+[insert 582]- thanh cong
++key =9888
++hash value =120
+Xung dot =Co
+[insert 583]- thanh cong
++key =301
++hash value =28
+Xung dot =Co
+[insert 584]- thanh cong
++key =798
++hash value =191
+Xung dot =Khong
+[insert 585]- thanh cong
++key =2961
++hash value =998
+Xung dot =Khong
+[insert 586]- thanh cong
++key =1459
++hash value =711
+Xung dot =Co
+[insert 587]- thanh cong
++key =1049
++hash value =317
+Xung dot =Co
+[insert 588]- thanh cong
++key =3621
++hash value =901
+Xung dot =Khong
+[insert 589]- thanh cong
++key =5198
++hash value =540
+Xung dot =Co
+[insert 590]- thanh cong
++key =5191
++hash value =214
+Xung dot =Khong
+[insert 591]- thanh cong
++key =8928
++hash value =807
+Xung dot =Co
+[insert 592]- thanh cong
++key =2511
++hash value =883
+Xung dot =Khong
+[insert 593]- thanh cong
++key =4883
++hash value =859
+Xung dot =Khong
+[insert 594]- thanh cong
++key =8433
++hash value =880
+Xung dot =Khong
+[insert 595]- thanh cong
++key =5464
++hash value =937
+Xung dot =Khong
+[insert 596]- thanh cong
++key =3583
++hash value =415
+Xung dot =Khong
+[insert 597]- thanh cong
++key =4147
++hash value =986
+Xung dot =Khong
+[insert 598]- thanh cong
++key =3187
++hash value =674
+Xung dot =Khong
+[insert 599]- thanh cong
++key =2093
++hash value =545
+Xung dot =Khong
+[insert 600]- thanh cong
++key =6686
++hash value =175
+Xung dot =Khong
+[insert 601]- thanh cong
++key =4419
++hash value =92
+Xung dot =Co
+[insert 602]- thanh cong
++key =7997
++hash value =417
+Xung dot =Co
+[insert 603]- thanh cong
++key =1520
++hash value =411
+Xung dot =Khong
+[insert 604]- thanh cong
++key =609
++hash value =382
+Xung dot =Co
+[insert 605]- thanh cong
++key =1585
++hash value =583
+Xung dot =Khong
+[insert 606]- thanh cong
++key =2815
++hash value =765
+Xung dot =Khong
+[insert 607]- thanh cong
++key =5585
++hash value =719
+Xung dot =Khong
+[insert 608]- thanh cong
++key =3209
++hash value =271
+Xung dot =Khong
+[insert 609]- thanh cong
++key =9371
++hash value =596
+Xung dot =Co
+[insert 610]- thanh cong
++key =8599
++hash value =474
+Xung dot =Khong
+[insert 611]- thanh cong
++key =3097
++hash value =51
+Xung dot =Co
+[insert 612]- thanh cong
++key =4707
++hash value =85
+Xung dot =Khong
+[insert 613]- thanh cong
++key =2161
++hash value =571
+Xung dot =Co
+[insert 614]- thanh cong
++key =996
++hash value =561
+Xung dot =Khong
+[insert 615]- thanh cong
++key =4208
++hash value =687
+Xung dot =Co
+[insert 616]- thanh cong
++key =6335
++hash value =245
+Xung dot =Khong
+[insert 617]- thanh cong
++key =5547
++hash value =234
+Xung dot =Khong
+[insert 618]- thanh cong
++key =237
++hash value =474
+Xung dot =Co
+[insert 619]- thanh cong
++key =2552
++hash value =222
+Xung dot =Khong
+[insert 620]- thanh cong
++key =4452
++hash value =487
+Xung dot =Khong
+[insert 621]- thanh cong
++key =9059
++hash value =769
+Xung dot =Khong
+[insert 622]- thanh cong
++key =2478
++hash value =488
+Xung dot =Co
+[insert 623]- thanh cong
++key =8118
++hash value =199
+Xung dot =Co
+[insert 624]- thanh cong
++key =7045
++hash value =49
+Xung dot =Co
+[insert 625]- thanh cong
++key =4657
++hash value =184
+Xung dot =Khong
+[insert 626]- thanh cong
++key =7971
++hash value =348
+Xung dot =Khong
+[insert 627]- thanh cong
++key =1638
++hash value =339
+Xung dot =Khong
+[insert 628]- thanh cong
++key =7673
++hash value =174
+Xung dot =Co
+[insert 629]- thanh cong
++key =1873
++hash value =577
+Xung dot =Khong
+[insert 630]- thanh cong
++key =2157
++hash value =99
+Xung dot =Khong
+[insert 631]- thanh cong
++key =3748
++hash value =391
+Xung dot =Co
+[insert 632]- thanh cong
++key =8600
++hash value =92
+Xung dot =Co
+[insert 633]- thanh cong
++key =9907
++hash value =862
+Xung dot =Khong
+[insert 634]- thanh cong
++key =4412
++hash value =765
+Xung dot =Co
+[insert 635]- thanh cong
++key =115
++hash value =73
+Xung dot =Khong
+[insert 636]- thanh cong
++key =2713
++hash value =726
+Xung dot =Co
+[insert 637]- thanh cong
++key =8407
++hash value =811
+Xung dot =Khong
+[insert 638]- thanh cong
++key =5406
++hash value =91
+Xung dot =Khong
+[insert 639]- thanh cong
++key =3217
++hash value =215
+Xung dot =Khong
+[insert 640]- thanh cong
++key =593
++hash value =494
+Xung dot =Khong
+[insert 641]- thanh cong
++key =8581
++hash value =349
+Xung dot =Co
+[insert 642]- thanh cong
++key =7488
++hash value =838
+Xung dot =Co
+[insert 643]- thanh cong
++key =3353
++hash value =267
+Xung dot =Co
+[insert 644]- thanh cong
++key =4001
++hash value =753
+Xung dot =Khong
+[insert 645]- thanh cong
++key =8477
++hash value =74
+Xung dot =Khong
+[insert 646]- thanh cong
++key =1042
++hash value =991
+Xung dot =Khong
+[insert 647]- thanh cong
++key =473
++hash value =330
+Xung dot =Khong
+[insert 648]- thanh cong
++key =8479
++hash value =310
+Xung dot =Co
+[insert 649]- thanh cong
++key =6763
++hash value =763
+Xung dot =Khong
+[insert 650]- thanh cong
++key =1182
++hash value =516
+Xung dot =Co
+[insert 651]- thanh cong
++key =1189
++hash value =842
+Xung dot =Khong
+[insert 652]- thanh cong
++key =6860
++hash value =713
+Xung dot =Khong
+[insert 653]- thanh cong
++key =6525
++hash value =671
+Xung dot =Khong
+[insert 654]- thanh cong
++key =9832
++hash value =510
+Xung dot =Co
+[insert 655]- thanh cong
++key =7471
++hash value =331
+Xung dot =Co
+[insert 656]- thanh cong
++key =1927
++hash value =951
+Xung dot =Khong
+[insert 657]- thanh cong
++key =8216
++hash value =767
+Xung dot =Khong
+[insert 658]- thanh cong
++key =8838
++hash value =184
+Xung dot =Co
+[insert 659]- thanh cong
++key =7349
++hash value =931
+Xung dot =Co
+[insert 660]- thanh cong
++key =6512
++hash value =637
+Xung dot =Co
+[insert 661]- thanh cong
++key =1922
++hash value =861
+Xung dot =Khong
+[insert 662]- thanh cong
++key =6587
++hash value =989
+Xung dot =Co
+[insert 663]- thanh cong
++key =2143
++hash value =446
+Xung dot =Khong
+[insert 664]- thanh cong
++key =2168
++hash value =897
+Xung dot =Co
+[insert 665]- thanh cong
++key =9598
++hash value =890
+Xung dot =Co
+[insert 666]- thanh cong
++key =2891
++hash value =736
+Xung dot =Co
+[insert 667]- thanh cong
++key =7734
++hash value =874
+Xung dot =Khong
+[insert 668]- thanh cong
++key =5025
++hash value =620
+Xung dot =Khong
+[insert 669]- thanh cong
++key =1032
++hash value =811
+Xung dot =Co
+[insert 670]- thanh cong
++key =5722
++hash value =390
+Xung dot =Khong
+[insert 671]- thanh cong
++key =852
++hash value =564
+Xung dot =Khong
+[insert 672]- thanh cong
++key =5710
++hash value =974
+Xung dot =Khong
+[insert 673]- thanh cong
++key =7485
++hash value =984
+Xung dot =Khong
+[insert 674]- thanh cong
++key =1644
++hash value =47
+Xung dot =Khong
+[insert 675]- thanh cong
++key =4623
++hash value =171
+Xung dot =Khong
+[insert 676]- thanh cong
++key =6131
++hash value =166
+Xung dot =Khong
+[insert 677]- thanh cong
++key =7899
++hash value =850
+Xung dot =Co
+[insert 678]- thanh cong
++key =6581
++hash value =281
+Xung dot =Co
+[insert 679]- thanh cong
++key =1460
++hash value =329
+Xung dot =Khong
+[insert 680]- thanh cong
++key =4563
++hash value =89
+Xung dot =Khong
+[insert 681]- thanh cong
++key =3941
++hash value =671
+Xung dot =Co
+[insert 682]- thanh cong
++key =4732
++hash value =536
+Xung dot =Co
+[insert 683]- thanh cong
++key =7667
++hash value =466
+Xung dot =Co
+[insert 684]- thanh cong
++key =723
++hash value =838
+Xung dot =Co
+[insert 685]- thanh cong
++key =134
++hash value =816
+Xung dot =Khong
+[insert 686]- thanh cong
++key =695
++hash value =533
+Xung dot =Khong
+[insert 687]- thanh cong
++key =4812
++hash value =979
+Xung dot =Co
+[insert 688]- thanh cong
++key =1521
++hash value =29
+Xung dot =Co
+[insert 689]- thanh cong
++key =2449
++hash value =565
+Xung dot =Khong
+[insert 690]- thanh cong
++key =6025
++hash value =654
+Xung dot =Khong
+[insert 691]- thanh cong
++key =6938
++hash value =919
+Xung dot =Co
+[insert 692]- thanh cong
++key =6302
++hash value =850
+Xung dot =Co
+[insert 693]- thanh cong
++key =5895
++hash value =310
+Xung dot =Co
+[insert 694]- thanh cong
++key =5984
++hash value =315
+Xung dot =Khong
+[insert 695]- thanh cong
++key =1680
++hash value =297
+Xung dot =Co
+[insert 696]- thanh cong
++key =535
++hash value =648
+Xung dot =Khong
+[insert 697]- thanh cong
++key =4063
++hash value =72
+Xung dot =Khong
+[insert 698]- thanh cong
++key =9309
++hash value =278
+Xung dot =Khong
+[insert 699]- thanh cong
++key =5832
++hash value =374
+Xung dot =Khong
+[insert 700]- thanh cong
++key =7075
++hash value =590
+Xung dot =Co
+[insert 701]- thanh cong
++key =1718
++hash value =782
+Xung dot =Co
+[insert 702]- thanh cong
++key =5091
++hash value =411
+Xung dot =Co
+[insert 703]- thanh cong
++key =509
++hash value =579
+Xung dot =Khong
+[insert 704]- thanh cong
++key =9563
++hash value =259
+Xung dot =Co
+[insert 705]- thanh cong
++key =2138
++hash value =356
+Xung dot =Khong
+[insert 706]- thanh cong
++key =8726
++hash value =964
+Xung dot =Co
+[insert 707]- thanh cong
++key =9516
++hash value =211
+Xung dot =Co
+[insert 708]- thanh cong
++key =4795
++hash value =472
+Xung dot =Co
+[insert 709]- thanh cong
++key =2137
++hash value =738
+Xung dot =Khong
+[insert 710]- thanh cong
++key =3033
++hash value =497
+Xung dot =Khong
+[insert 711]- thanh cong
++key =2091
++hash value =309
+Xung dot =Co
+[insert 712]- thanh cong
++key =5151
++hash value =493
+Xung dot =Co
+[insert 713]- thanh cong
++key =2646
++hash value =317
+Xung dot =Co
+[insert 714]- thanh cong
++key =4394
++hash value =641
+Xung dot =Khong
+[insert 715]- thanh cong
++key =3286
++hash value =859
+Xung dot =Co
+[insert 716]- thanh cong
++key =4112
++hash value =355
+Xung dot =Co
+[insert 717]- thanh cong
++key =1956
++hash value =874
+Xung dot =Co
+[insert 718]- thanh cong
++key =876
++hash value =397
+Xung dot =Co
+[insert 719]- thanh cong
++key =9035
++hash value =937
+Xung dot =Co
+[insert 720]- thanh cong
++key =9196
++hash value =440
+Xung dot =Co
+[insert 721]- thanh cong
++key =1306
++hash value =152
+Xung dot =Khong
+[insert 722]- thanh cong
++key =2523
++hash value =299
+Xung dot =Khong
+[insert 723]- thanh cong
++key =2170
++hash value =133
+Xung dot =Co
+[insert 724]- thanh cong
++key =7897
++hash value =614
+Xung dot =Co
+[insert 725]- thanh cong
++key =8790
++hash value =518
+Xung dot =Khong
+[insert 726]- thanh cong
++key =4797
++hash value =709
+Xung dot =Co
+[insert 727]- thanh cong
++key =6849
++hash value =914
+Xung dot =Co
+[insert 728]- thanh cong
++key =4186
++hash value =90
+Xung dot =Co
+[insert 729]- thanh cong
++key =6946
++hash value =864
+Xung dot =Khong
+[insert 730]- thanh cong
++key =9286
++hash value =63
+Xung dot =Co
+[insert 731]- thanh cong
++key =8614
++hash value =744
+Xung dot =Khong
+[insert 732]- thanh cong
++key =7808
++hash value =609
+Xung dot =Khong
+[insert 733]- thanh cong
++key =6405
++hash value =507
+Xung dot =Khong
+[insert 734]- thanh cong
++key =8091
++hash value =513
+Xung dot =Co
+[insert 735]- thanh cong
++key =4645
++hash value =767
+Xung dot =Co
+[insert 736]- thanh cong
++key =1170
++hash value =99
+Xung dot =Co
+[insert 737]- thanh cong
++key =6349
++hash value =897
+Xung dot =Co
+[insert 738]- thanh cong
++key =9162
++hash value =427
+Xung dot =Khong
+[insert 739]- thanh cong
++key =3611
++hash value =720
+Xung dot =Co
+[insert 740]- thanh cong
++key =5872
++hash value =95
+Xung dot =Khong
+[insert 741]- thanh cong
++key =1995
++hash value =977
+Xung dot =Co
+[insert 742]- thanh cong
++key =5320
++hash value =940
+Xung dot =Co
+[insert 743]- thanh cong
++key =1378
++hash value =650
+Xung dot =Co
+[insert 744]- thanh cong
++key =5988
++hash value =787
+Xung dot =Co
+[insert 745]- thanh cong
++key =3711
++hash value =524
+Xung dot =Co
+[insert 746]- thanh cong
++key =5946
++hash value =830
+Xung dot =Khong
+[insert 747]- thanh cong
++key =2605
++hash value =978
+Xung dot =Co
+[insert 748]- thanh cong
++key =5082
++hash value =848
+Xung dot =Co
+[insert 749]- thanh cong
++key =4583
++hash value =449
+Xung dot =Khong
+[insert 750]- thanh cong
++key =3897
++hash value =478
+Xung dot =Khong
+[insert 751]- thanh cong
++key =5383
++hash value =876
+Xung dot =Co
+[insert 752]- thanh cong
++key =1905
++hash value =354
+Xung dot =Khong
+[insert 753]- thanh cong
++key =3970
++hash value =594
+Xung dot =Khong
+[insert 754]- thanh cong
++key =7855
++hash value =656
+Xung dot =Co
+[insert 755]- thanh cong
++key =6967
++hash value =842
+Xung dot =Co
+[insert 756]- thanh cong
++key =3458
++hash value =161
+Xung dot =Co
+[insert 757]- thanh cong
++key =9882
++hash value =411
+Xung dot =Co
+[insert 758]- thanh cong
++key =9319
++hash value =458
+Xung dot =Khong
+[insert 759]- thanh cong
++key =999
++hash value =415
+Xung dot =Co
+[insert 760]- thanh cong
++key =7425
++hash value =902
+Xung dot =Khong
+[insert 761]- thanh cong
++key =4913
++hash value =400
+Xung dot =Co
+[insert 762]- thanh cong
++key =564
++hash value =571
+Xung dot =Co
+[insert 763]- thanh cong
++key =6389
++hash value =619
+Xung dot =Co
+[insert 764]- thanh cong
++key =67
++hash value =408
+Xung dot =Co
+[insert 765]- thanh cong
++key =8586
++hash value =439
+Xung dot =Co
+[insert 766]- thanh cong
++key =9408
++hash value =463
+Xung dot =Co
+[insert 767]- thanh cong
++key =137
++hash value =670
+Xung dot =Khong
+[insert 768]- thanh cong
++key =3727
++hash value =412
+Xung dot =Khong
+[insert 769]- thanh cong
++key =1468
++hash value =273
+Xung dot =Khong
+[insert 770]- thanh cong
++key =505
++hash value =107
+Xung dot =Khong
+[insert 771]- thanh cong
++key =2392
++hash value =337
+Xung dot =Khong
+[insert 772]- thanh cong
++key =39
++hash value =103
+Xung dot =Khong
+[insert 773]- thanh cong
++key =2195
++hash value =584
+Xung dot =Co
+[insert 774]- thanh cong
++key =2199
++hash value =56
+Xung dot =Co
+[insert 775]- thanh cong
++key =9417
++hash value =26
+Xung dot =Co
+[insert 776]- thanh cong
++key =9593
++hash value =800
+Xung dot =Khong
+[insert 777]- thanh cong
++key =3239
++hash value =812
+Xung dot =Co
+[insert 778]- thanh cong
++key =7792
++hash value =720
+Xung dot =Co
+[insert 779]- thanh cong
++key =4006
++hash value =844
+Xung dot =Khong
+[insert 780]- thanh cong
++key =4320
++hash value =906
+Xung dot =Khong
+[insert 781]- thanh cong
++key =8367
++hash value =90
+Xung dot =Co
+[insert 782]- thanh cong
++key =8229
++hash value =801
+Xung dot =Khong
+[insert 783]- thanh cong
++key =7041
++hash value =577
+Xung dot =Co
+[insert 784]- thanh cong
++key =5291
++hash value =17
+Xung dot =Khong
+[insert 785]- thanh cong
++key =7715
++hash value =132
+Xung dot =Co
+[insert 786]- thanh cong
++key =6071
++hash value =84
+Xung dot =Khong
+[insert 787]- thanh cong
++key =4579
++hash value =977
+Xung dot =Co
+[insert 788]- thanh cong
++key =7159
++hash value =505
+Xung dot =Co
+[insert 789]- thanh cong
++key =1156
++hash value =447
+Xung dot =Khong
+[insert 790]- thanh cong
++key =5518
++hash value =311
+Xung dot =Co
+[insert 791]- thanh cong
++key =35
++hash value =631
+Xung dot =Co
+[insert 792]- thanh cong
++key =7388
++hash value =35
+Xung dot =Co
+[insert 793]- thanh cong
++key =2041
++hash value =407
+Xung dot =Co
+[insert 794]- thanh cong
++key =1143
++hash value =412
+Xung dot =Co
+[insert 795]- thanh cong
++key =187
++hash value =572
+Xung dot =Khong
+[insert 796]- thanh cong
++key =387
++hash value =179
+Xung dot =Khong
+[insert 797]- thanh cong
++key =2435
++hash value =912
+Xung dot =Co
+[insert 798]- thanh cong
++key =6347
++hash value =661
+Xung dot =Khong
+[insert 799]- thanh cong
++key =8975
++hash value =855
+Xung dot =Co
+[insert 800]- thanh cong
++key =8203
++hash value =732
+Xung dot =Khong
+[search 1]- tim thay
++ key =5037
++ hash value = 37
+Xung dot = Khong
+[search 2]- tim thay
++ key =2221
++ hash value = 653
+Xung dot = Khong
+[search 3]- tim thay
++ key =373
++ hash value = 526
+Xung dot = Co
+[search 4]- tim thay
++ key =1905
++ hash value = 354
+Xung dot = Khong
+[search 5]- tim thay
++ key =4913
++ hash value = 400
+Xung dot = Co
+[search 6]- tim thay
++ key =7103
++ hash value = 895
+Xung dot = Khong
+[search 7]- tim thay
++ key =174
++ hash value = 537
+Xung dot = Khong
+[search 8]- tim thay
++ key =6131
++ hash value = 166
+Xung dot = Khong
+[search 9]- tim thay
++ key =613
++ hash value = 854
+Xung dot = Co
+[search 10]- tim thay
++ key =634
++ hash value = 833
+Xung dot = Khong
+[search 11] - khong tim thay
++ key = 4398
++hash value= 113
+Xung dot = Khong
+[search 12] - khong tim thay
++ key = 796
++hash value= 955
+Xung dot = Khong
+[search 13] - khong tim thay
++ key = 7123
++hash value= 256
+Xung dot = Khong
+[search 14] - khong tim thay
++ key = 2011
++hash value= 866
+Xung dot = Khong
+[search 15] - khong tim thay
++ key = 4840
++hash value= 284
+Xung dot = Khong
+[search 16] - khong tim thay
++ key = 6962
++hash value= 752
+Xung dot = Khong
+[search 17] - khong tim thay
++ key = 802
++hash value= 663
+Xung dot = Khong
+[search 18] - khong tim thay
++ key = 2347
++hash value= 525
+Xung dot = Khong
+[search 19] - khong tim thay
++ key = 6799
++hash value= 13
+Xung dot = Khong
+[search 20] - khong tim thay
++ key = 1545
++hash value= 862
+Xung dot = Khong
+[destructor] - huy bo thanh cong
++ so phan tu xung dot da delete = 251
++ da delete bang T
